@@ -28,24 +28,10 @@ This task is part of the CodeAlpha Data Analytics Internship, focusing on transf
 
 ## Visualizations Included
 
-- Bar Chart (Category-wise comparison)
-- Line Chart (Trend analysis)
-- Pie Chart (Percentage distribution)
-- Heatmap (Correlation visualization)
-
-## Screenshots
-
-![Monthly Sales Overview](images/fig_bar.png)
-*Bar Chart showing monthly sales*
-
-![Sales vs Profit Trend](images/fig_line.png)
-*Line Chart comparing sales and profit trends*
-
-![Sales Distribution](images/fig_pie.png)
-*Pie Chart showing sales distribution by month*
-
-![Correlation Analysis](images/fig_heatmap.png)
-*Heatmap showing correlation between sales and profit*
+- Bar Chart: Monthly Sales Overview
+- Line Chart: Sales vs Profit Trend Analysis
+- Pie Chart: Sales Distribution by Month
+- Heatmap: Sales-Profit Correlation Analysis
 
 ## How to Run the Code
 
